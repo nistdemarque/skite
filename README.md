@@ -1,1 +1,1 @@
-# skite
+# Hands on Ember.js from Tut+
